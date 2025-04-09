@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#FFD700"  # Amarelo neon
+backgroundColor="#000000"  # Preto
+secondaryBackgroundColor="#333333"  # Cinza escuro para áreas secundárias
+textColor="#FFFFFF"  # Texto branco para legibilidade
+font="sans serif"  # Fonte moderna sem serifa
